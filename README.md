@@ -7,7 +7,7 @@ This text editor is a versatile tool designed to assist you with all your docume
 
 2. Installation
 Downloading and Installing the Text Editor
-To install the Text Editor, visit our website [insert website link] and follow the download instructions.
+To install the Text Editor, visit our website. https://github.com/priy-nshu and follow the download instructions.
 
 System Requirements: Operating System: Windows, macOS, Linux
 
